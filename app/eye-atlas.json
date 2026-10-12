@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "box": [
+    1280,
+    310,
+    1630,
+    525
+  ],
+  "frame_size": [
+    350,
+    215
+  ],
+  "frame_count": 84,
+  "columns": 12,
+  "rows": 7,
+  "atlas_size": [
+    4200,
+    1505
+  ],
+  "order": "row-major",
+  "openness": {
+    "first": 0,
+    "last": 1,
+    "spacing": "linear"
+  },
+  "base_image": "xingli-closed.png",
+  "open_texture": "xingli-hero.png",
+  "source_paths": {
+    "closed": "C:\\Users\\Administrator\\Documents\\Codex\\2026-10-08\\deepseek-harness-x20\\work\\ultra\\assets\\xingli-closed.png",
+    "opened": "C:\\Users\\Administrator\\Documents\\Codex\\2026-10-08\\deepseek-harness-x20\\work\\ultra\\assets\\xingli-hero.png"
+  },
+  "iris": {
+    "center": [
+      1480,
+      411
+    ],
+    "radius": 53,
+    "crop_center": [
+      200,
+      101
+    ]
+  },
+  "curves_local": {
+    "closed": [
+      [
+        80,
+        103
+      ],
+      [
+        130,
+        133
+      ],
+      [
+        250,
+        137
+      ],
+      [
+        310,
+        117
+      ]
+    ],
+    "upper": [
+      [
+        80,
+        103
+      ],
+      [
+        130,
+        40
+      ],
+      [
+        250,
+        47
+      ],
+      [
+        310,
+        117
+      ]
+    ],
+    "lower": [
+      [
+        80,
+        103
+      ],
+      [
+        130,
+        161
+      ],
+      [
+        250,
+        167
+      ],
+      [
+        310,
+        117
+      ]
+    ]
+  },
+  "upper_lash_extent_closed": 15,
+  "upper_aperture_offset_open": 3,
+  "lower_aperture_offset_open": -3,
+  "code_stream_baked": false
+}
